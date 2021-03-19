@@ -1,0 +1,37 @@
+﻿RougeL
+======
+
+.. currentmodule:: ignite.metrics.rouge
+
+.. autoclass:: RougeL
+   :members:
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
